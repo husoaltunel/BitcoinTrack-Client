@@ -1,0 +1,20 @@
+<div class="container sample">
+    <div class="options vertical">
+      <h2 id="legendTitle" class="text-danger">Bitcoin Tracking </h2>
+    </div>
+  
+    <igx-financial-chart
+      height="100%"
+      width="100%"
+      [dataSource]="data"
+      chartType="line"
+      thickness="2"
+      yAxisMode="Numeric"
+      yAxisTitle="Usd Price"
+      yAxisInterval="500"
+      yAxisMinimumValue={{minValue}}
+      yAxisMaximumValue={{maxValue}}
+    >
+    </igx-financial-chart>
+  </div>
+  
