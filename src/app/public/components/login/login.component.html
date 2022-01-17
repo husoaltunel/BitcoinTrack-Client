@@ -1,0 +1,19 @@
+<div class="card bg-light mx-auto">
+    <h4 class="card-header text-center text-warning">Login</h4>
+    <div class="card-body">
+        <form  (submit)="login()" >
+             <div class="form-group">
+            <label class="col-form-label mt-4" for="inputDefault" >Username</label>
+            <input type="text" class="form-control" placeholder="Username" id="inputDefault" name="username" [(ngModel)]="loginInfo.username" >
+        </div>
+        <div class="form-group">
+            <label class="col-form-label mt-4" for="inputDefault">Password</label>
+            <input type="password" class="form-control" placeholder="Password" id="inputDefault" name="password" [(ngModel)]="loginInfo.password" >
+        </div>
+        <div class="form-group d-flex justify-content-center mt-3">
+            <button type="submit" class="btn btn-success mt-2" >Login</button>
+        </div>
+        
+        </form>     
+    </div>
+</div>

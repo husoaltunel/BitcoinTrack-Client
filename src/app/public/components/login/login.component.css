@@ -1,0 +1,12 @@
+.card{
+    margin-top: 6rem;
+    width: 40rem;
+    height: 30rem;
+    border-radius: 3rem;
+}
+.card-header {
+    font-weight: bold;
+}
+.btnRegister {
+    margin-left: 1.5rem;
+}
