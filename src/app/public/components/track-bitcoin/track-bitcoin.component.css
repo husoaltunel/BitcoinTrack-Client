@@ -1,4 +1,9 @@
 .sample{
     height: 35rem;
     background-color: white;
+    border-radius: 1rem;
+}
+igx-financial-chart {
+    background-color: white;
+     border-radius: 1rem;
 }
