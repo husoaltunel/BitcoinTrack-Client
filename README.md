@@ -1,3 +1,6 @@
+![alt text](https://github.com/husoaltunel/BitcoinTrack-Client/blob/master/src/assets/AppView/login.PNG)
+
+
 # BitcoinTrackClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
