@@ -1,5 +1,5 @@
 ![alt text](https://github.com/husoaltunel/BitcoinTrack-Client/blob/master/src/assets/AppView/login.PNG)
-
+![alt text](https://github.com/husoaltunel/BitcoinTrack-Client/blob/master/src/assets/AppView/track-bitcoin.png)
 
 # BitcoinTrackClient
 
